@@ -1,0 +1,24 @@
+{
+  "users":  [
+    {
+        "id":1,
+        "name":"khushal",
+        "email":"khushalpatel@gmail.com"
+    },
+    {
+        "id":2,
+        "name":"rohan",
+        "email":"khurohanlpatel@gmail.com"
+    },
+    {
+        "id":3,
+        "name":"rahul",
+        "email":"khushalpatel@gmail.com"
+    },
+    {
+        "id":4,
+        "name":"pniky",
+        "email":"khushalpatel@gmail.com"
+    }
+]
+}
